@@ -18,6 +18,7 @@ var check = (callback)=>{
         phint.innerHTML = "Invalid Username or Password";
         return false;
     }
+}
 
 function redirect(){
     login.action="content.html";
