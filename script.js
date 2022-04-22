@@ -23,3 +23,5 @@ var check = (callback)=>{
 function redirect(){
     login.action="content.html";
 }
+
+
