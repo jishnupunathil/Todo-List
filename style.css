@@ -2,3 +2,6 @@ body{
     background-image: url("./images/bkim.jpg"); background-size: cover;
 
 }
+.txtsize{
+    font-size:25px ;
+}
